@@ -2,7 +2,7 @@
 
 Welcome to my personal coding journal. This is where I document my progress as I learn and build projects in Python, Java, JavaScript, and TypeScript.
 
-—
+
 
 ## 🎯 Why I Made This
 
@@ -11,7 +11,7 @@ Welcome to my personal coding journal. This is where I document my progress as I
 - To stay consistent and motivated
 - To showcase my growth to others
 
-—
+
 
 ## 📂 Repo Structure
 
