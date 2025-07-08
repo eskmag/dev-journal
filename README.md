@@ -4,6 +4,7 @@ Welcome to my personal coding journal. This is where I document my progress as I
 
 
 
+
 ## 🎯 Why I Made This
 
 - To track my daily/weekly learning
@@ -13,12 +14,14 @@ Welcome to my personal coding journal. This is where I document my progress as I
 
 
 
+
 ## 📂 Repo Structure
 
 - `logs/` – Daily or weekly learning logs
 - `notes/` – Topic-specific notes from tutorials or lessons
 - `snippets/` – Small code snippets I find useful or want to reuse
 - `projects/` - Small projects
+
 
 
 
